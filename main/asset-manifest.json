@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.20fa6712.chunk.js",
-    "main.js.map": "./static/js/main.20fa6712.chunk.js.map",
+    "main.js": "./static/js/main.d5691556.chunk.js",
+    "main.js.map": "./static/js/main.d5691556.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0245ac17.js",
     "runtime-main.js.map": "./static/js/runtime-main.0245ac17.js.map",
     "static/js/2.3e3a1573.chunk.js": "./static/js/2.3e3a1573.chunk.js",
@@ -10,15 +10,13 @@
     "static/js/2.3e3a1573.chunk.js.LICENSE.txt": "./static/js/2.3e3a1573.chunk.js.LICENSE.txt",
     "static/media/bg-about-us.cf9a123e.jpg": "./static/media/bg-about-us.cf9a123e.jpg",
     "static/media/bg-coworking.06bccc47.jpeg": "./static/media/bg-coworking.06bccc47.jpeg",
-    "static/media/bg-presentation.88963029.jpg": "./static/media/bg-presentation.88963029.jpg",
     "static/media/bg-sign-in-basic.f327db1d.jpeg": "./static/media/bg-sign-in-basic.f327db1d.jpeg",
     "static/media/blog-9-4.de736e0b.jpg": "./static/media/blog-9-4.de736e0b.jpg",
     "static/media/blog2.aba7a3cb.jpg": "./static/media/blog2.aba7a3cb.jpg",
-    "static/media/bravoengineering.0acbd556.jpeg": "./static/media/bravoengineering.0acbd556.jpeg",
     "static/media/bruce-mars.8a606c4a.jpg": "./static/media/bruce-mars.8a606c4a.jpg",
     "static/media/city-profile.4d64bba9.jpg": "./static/media/city-profile.4d64bba9.jpg",
+    "static/media/hikhik.5ab73157.jpeg": "./static/media/hikhik.5ab73157.jpeg",
     "static/media/illustration-reset.c5f36c0c.jpg": "./static/media/illustration-reset.c5f36c0c.jpg",
-    "static/media/ivana-square.f7bc23b2.jpg": "./static/media/ivana-square.f7bc23b2.jpg",
     "static/media/ivana-squares.3c555b85.jpg": "./static/media/ivana-squares.3c555b85.jpg",
     "static/media/logo-apple.f9c2682e.svg": "./static/media/logo-apple.f9c2682e.svg",
     "static/media/logo-coinbase.87e91c7f.svg": "./static/media/logo-coinbase.87e91c7f.svg",
@@ -30,6 +28,7 @@
     "static/media/logo-spotify.7e255dc6.svg": "./static/media/logo-spotify.7e255dc6.svg",
     "static/media/logo-vodafone.b3e8486c.svg": "./static/media/logo-vodafone.b3e8486c.svg",
     "static/media/macbook.e0a8c5d5.png": "./static/media/macbook.e0a8c5d5.png",
+    "static/media/main.7bff5973.png": "./static/media/main.7bff5973.png",
     "static/media/rotating-card-bg-back.183088de.jpeg": "./static/media/rotating-card-bg-back.183088de.jpeg",
     "static/media/rotating-card-bg-front.bdcdfadc.jpeg": "./static/media/rotating-card-bg-front.bdcdfadc.jpeg",
     "static/media/team-1.0fd36e0e.jpg": "./static/media/team-1.0fd36e0e.jpg",
@@ -44,6 +43,6 @@
   "entrypoints": [
     "static/js/runtime-main.0245ac17.js",
     "static/js/2.3e3a1573.chunk.js",
-    "static/js/main.20fa6712.chunk.js"
+    "static/js/main.d5691556.chunk.js"
   ]
 }
